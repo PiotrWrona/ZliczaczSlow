@@ -1,0 +1,2 @@
+Gra polegaj¹ca na przemieszczaniu siê wê¿em po planszy i 'jedzeniu' pojawiaj¹cych siê elementów. W menu wybieramy prêdkoœæ gry (poruszania siê wê¿a)
+ oraz okreœlamy,    czy w¹¿ mo¿e przechodziæ przez œciany. Rozpoczynamy j¹ naciœniêciem spacji, a sterowanie odbywa siê strza³kami. Gra koñczy siê w momencie dotkniêcia g³ow¹ wê¿a o elemnty niedozwolone (cia³o wê¿a i - jesli dokonano takiego wyboru - œcianê).
